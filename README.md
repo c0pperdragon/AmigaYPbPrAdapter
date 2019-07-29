@@ -7,7 +7,7 @@ feed into a modern mid-range TV. The way to go with current TVs is component vid
 has basically the same quality as RGB but uses a different way to encode everything.
 
 As a matter of fact, the Y of YPbPr is just the (monochrome) luma signal together with sync, which is 
-identical to the signal most Amiga computers (with the exception of the 600 and the 1200) already provide 
+identical to the signal many Amiga computers (the 1000, 500, 2000 and maybe others as well) already provide 
 on their composite output port. 
 So it is only necessary to create the suitable Pb and Pr signals to get full-blown YPbPr.
 
